@@ -1,4 +1,4 @@
 # Rezy-MD-Web-Pair
 <html>
-<button>Depoly Bot</button>
+<button src=https://dab0c35f-edba-451a-a779-1083957e9746-00-1500eds6qyiqm.pike.replit.dev/>Depoly Bot</button>
 </html>
